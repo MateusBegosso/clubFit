@@ -4,7 +4,7 @@
 
   <p><b>Fit Club</b> fornecer um espaço para as pessoas melhorarem sua condição física e saúde geral por meio de exercícios e atividades físicas regulares.</p>
 
-👉 Live Demo: <a href='club-fit-mateusbegosso.vercel.app'>Fit Club</a>
+👉 Live Demo: <a href='https://club-fit-mateusbegosso.vercel.app/'>Fit Club</a>
 
 <h3>Feito Com:</h3>
 
