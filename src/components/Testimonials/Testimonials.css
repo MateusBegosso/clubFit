@@ -73,7 +73,7 @@
     display: flex;
     gap: 1rem;
     position: absolute;
-    bottom: 1rem;
+    bottom: 0.2rem;
     left: 3rem;
 }
 
@@ -117,4 +117,5 @@
         left: 0;
         padding: 1rem;
     }
+
 }
